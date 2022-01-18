@@ -160,6 +160,7 @@ main {
     height: 250px;
     text-align: center;
     margin: 0 auto;
+    margin-bottom: 5rem;
 }
 .currency-table-container table {
     width: 100%;
@@ -497,6 +498,7 @@ main {
     font-family: "Dm Sans", sans-serif;
     margin-left: auto;
     margin-right: auto;
+    color: black;
 }
 .plan-card--ca span {
     display: inline-block;
