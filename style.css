@@ -52,6 +52,7 @@ h1 {
     font-size: 2.4rem;
     line-height: 2.6rem;
     color: var(--just-white);
+    max-width: 680px;
 }
 header p {
     margin-top: 2.4rem;
